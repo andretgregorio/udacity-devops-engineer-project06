@@ -7,4 +7,3 @@ fun main(args: Array<String>) {
 		.packages("project06.capstone")
 		.start()
 }
-
